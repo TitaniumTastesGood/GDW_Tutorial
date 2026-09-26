@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aiden/OneDrive/Documents/GitHub/GDW_Tutorial/MyProject/Content/Framework/BP_GameMode.uasset",
+				"C:/Users/aiden/OneDrive/Documents/GitHub/GDW_Tutorial/MyProject/Content/Blueprints/BP_FPCharacter.uasset"
+			]
+		}
+	]
+}
