@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/aiden/OneDrive/Documents/GitHub/GDW_Tutorial/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_Turret.uasset",
+				"C:/Users/aiden/OneDrive/Documents/GitHub/GDW_Tutorial/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/9W/0VIASI9TXJ7XK54N9DJ4EK.uasset",
+				"C:/Users/aiden/OneDrive/Documents/GitHub/GDW_Tutorial/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_Bullet.uasset"
+			]
+		}
+	]
+}
